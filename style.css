@@ -1,0 +1,43 @@
+/*Código do Exercicio 05*/
+
+body{
+    background-image: url("https://th.bing.com/th/id/R.6ce0a988d5a147fa5a9cc6b808f460a3?rik=AsSp2i0jhedcaw&pid=ImgRaw&r=0");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.titulo{
+    color: red;
+    font-size: 60px;
+    text-align: center;
+    font-style: oblique;
+}
+
+#texto{
+    color: rgb(206, 18, 18);
+    font-size: 40px;
+    text-align: justify;
+}
+
+.paragrafo{
+    color: red;
+    font-size: 25px;
+}
+button{
+    height: 100px;
+    color: darkmagenta;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: aqua;
+    font-style: italic;
+    border-radius: 40px;
+}
+
+.box {
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
