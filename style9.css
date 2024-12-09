@@ -1,0 +1,32 @@
+body{
+    background-image: url("https://img.freepik.com/vetores-premium/fundo-de-numeros-coloridos-e-ludicos-fundo-de-apresentacao-educacional-perfeito-para-criancas_91515-252.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#n1 {
+    font-size: 20px;
+    height: 35px;
+    text-align: center;
+}
+
+#n2 {
+    font-size: 20px;
+    height: 35px;
+    text-align: center;
+}
+
+button{
+    height: 45px;
+    width: 200px;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-style: italic;
+    border-radius: 40px;
+    margin-top: 10px;
+
+}
+
+p {
+    font-size: 40px;
+}
